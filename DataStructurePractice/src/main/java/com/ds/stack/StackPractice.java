@@ -75,6 +75,9 @@ public class StackPractice {
 		stack.printStack();
 		
 		System.out.println();
+		System.out.println("Size: " +stack.size());
+		
+		System.out.println();
 		stack.pop();
 		stack.pop();
 		stack.pop();
