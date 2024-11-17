@@ -57,13 +57,13 @@ public class StackPractice {
 		stack.push(3);
 		stack.push(4);
 		
-		System.out.print("Statck: " );
+		System.out.print("Stack: " );
 		stack.printStack();
 		
 		stack.pop();
 		
 		System.out.println();
-		System.out.print("Statck: " );
+		System.out.print("Stack: " );
 		stack.printStack();
 		
 		System.out.println();
@@ -71,7 +71,7 @@ public class StackPractice {
 		stack.push(6);
 		stack.push(7);
 		
-		System.out.print("Statck: " );
+		System.out.print("Stack: " );
 		stack.printStack();
 		
 		System.out.println();
